@@ -16,6 +16,8 @@ header {
 main {
 	clear: left;
 }
+h2, { color: red;
+}     
 main h1 {
 	font-size: 150%;
 }
