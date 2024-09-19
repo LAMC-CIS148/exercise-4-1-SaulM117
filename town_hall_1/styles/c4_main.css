@@ -6,8 +6,10 @@ body {
 
 /* the styles for the header */
 header img {
-	float: left;
-	
+	float: left;	
+}
+header { 
+	color: red;
 }
 
 /* the styles for the main content */
