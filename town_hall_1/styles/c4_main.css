@@ -24,10 +24,13 @@ header {
 	
 }
 
-/* the styles for the main content */
+/* thestyles for the main content */
+
+h2 {
+	Color: #800000;
+}
 main {
  clear: left;
-color: #800000;
 }     
 
 	
