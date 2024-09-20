@@ -26,11 +26,11 @@ header {
 
 /* thestyles for the main content */
 
-h2 {
-	Color: #800000;
-}
+
 main {
  clear: left;
+ h2 { color: #800000;
+    }
 }     
 
 	
