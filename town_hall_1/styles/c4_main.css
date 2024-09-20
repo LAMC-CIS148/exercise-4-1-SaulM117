@@ -35,13 +35,15 @@ main {
 main h1 {
 	font-size: 150%;
 }
-main h2 {
+main h2 
+ { 
+	color: #800000;
+}
+
+{
 	color: var(--global-color-1);
 	font-size: 130%; 
-}
-        { 
-	color: #800000;
-	}
+} 
 
 main h3 {
 	font-size: 105%;
