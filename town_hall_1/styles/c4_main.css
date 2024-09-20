@@ -29,8 +29,6 @@ header {
 
 main {
  clear: left;
- h2 { color: #800000;
-    }
 }     
 
 	
@@ -39,15 +37,12 @@ main {
     }
 main h1 {
 	font-size: 150%;
-	h2 color: #800000;
 	   
 }
 main h2 
-
 {
 	color: var(--global-color-1);
 	font-size: 130%; 
-	h2 color: #800000;
 	   
 	
 } 
