@@ -28,10 +28,7 @@ header {
 main {
  clear: left;
 }    
-	h2 { color: #800000;
-	   }
-	h2 { color: #800000;
-	   }
+	
 
 
     }
@@ -42,6 +39,10 @@ main h2 {
 	color: var(--global-color-1);
 	font-size: 130%; 
 }
+        { 
+	color: #800000;
+	}
+
 main h3 {
 	font-size: 105%;
 }
