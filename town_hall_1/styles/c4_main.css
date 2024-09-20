@@ -11,6 +11,9 @@ header img {
 header { 
 	h2  { color: red;
 	    }
+	.shadow { 
+		text-shadow: 2px 2px 4px #800000;
+	}
 }
 
 /* the styles for the main content */
