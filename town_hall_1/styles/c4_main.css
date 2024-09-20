@@ -17,6 +17,8 @@ header {
 	    font-style: italic;
 	    text-indent: 30px;
 	   }
+	h2 {color: #800000;
+	   }
 		
 	.shadow { 
 		text-shadow: 2px 2px 4px #800000;
