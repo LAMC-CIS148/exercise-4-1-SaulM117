@@ -56,8 +56,8 @@ main h3 {
 }
 
 /* the styles for the footer */
-footer { float: right;
-	float: left;
+footer { float: center;
+	
        }
 
 
