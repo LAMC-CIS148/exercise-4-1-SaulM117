@@ -26,7 +26,8 @@ header {
 
 /* thestyles for the main content */
 
-
+h2 { color: red;
+   }
 main {
  clear: left;
 }     
@@ -42,7 +43,7 @@ main h1 {
 main h2 
 {
 	color: var(--global-color-1);
-	font-size: 150%; 
+	font-size: 130%; 
 	   
 	
 } 
